@@ -14,7 +14,7 @@ def knapsack(W, wt, val, n):
     if (wt[n - 1] > W):
         return knapsack(W, wt, val, n - 1)
 
-        # return the maximum of two cases:
+    # return the maximum of two cases:
     # (1) nth item included
     # (2) not included
     else:
