@@ -1,0 +1,16 @@
+.vscode
+experiments/
+data/
+dataset_cache*
+dataset1_cache*
+daily_dialog_*
+runs/
+ParlAI/
+__pycache__
+.idea/*
+env/*
+ParlAI/*
+model/*
+logs/*
+*config.json
+caches/*
